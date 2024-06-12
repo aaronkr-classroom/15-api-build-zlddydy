@@ -66,11 +66,11 @@ These files will need to be updated to complete the assignment. / 이 파일들�
     - /controllers/\* `(2/2)`
     - /views/courses/\_courseModal.ejs + /public/js/modal.js `(2/2)`
     - /app.js `(2/2)`
-  - [lesson-27](./lesson-27) (apiRoutes + Bootstrap modal)
+  - [lesson-27](./lesson-27) (apiRoutes + Bootstrap modal 완성!)
     - /routes/apiRoutes.js `(2/2)`
     - /controllers/coursesController.js `(2/2)`
     - /public/js/joinFunctions.js `(2/2)`
-  - [lesson-28](./lesson-28) (CREATE + READ)
+  - [lesson-28](./lesson-28) (API 보안)
     - /models/User.js `(2/2)`
     - /controllers/usersController.js `(2/2)`
   - [lesson-29](./lesson-29) (추가한 코드 없음)
